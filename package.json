@@ -1,0 +1,38 @@
+{
+  "name": "vue-plugin-demo",
+  "version": "1.0.0",
+  "description": "a vue pliugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-plugin"
+  ],
+  "author": "yurisa",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-generator": "^6.26.1",
+    "babel-helpers": "^6.24.1",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "cosmiconfig": "^4.0.0",
+    "css-loader": "^0.28.9",
+    "detect-indent": "^5.0.0",
+    "node-sass": "^4.7.2",
+    "postcss-load-config": "^1.2.0",
+    "prettier": "^1.10.2",
+    "resolve": "^1.5.0",
+    "sass-loader": "^6.0.6",
+    "slash": "^1.0.0",
+    "style-loader": "^0.20.1",
+    "vue": "^2.5.13",
+    "vue-loader": "^14.1.1",
+    "vue-template-compiler": "^2.5.13",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
